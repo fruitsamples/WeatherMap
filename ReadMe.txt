@@ -13,9 +13,14 @@ Important:
 The MapKit framework uses Google services to provide map data. Use of this class and the associated interfaces binds you to the Google Maps/Google Earth API terms of service. You can find these terms of service mentioned in the header section of "MKMapView.h".
 
 ===========================================================================
-SYSTEM REQUIREMENTS
+BUILD REQUIREMENTS
 
-iPhone OS 3.0
+iOS 4.0 SDK
+
+===========================================================================
+RUNTIME REQUIREMENTS
+
+iPhone OS 3.2 or later
 
 ===========================================================================
 PACKAGING LIST
@@ -38,6 +43,7 @@ Manages and serves all weather locations backed by Core Data.
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS
 
+1.1 Updated for iOS 4.0.
 1.0 Initial version published.
 
 ===========================================================================

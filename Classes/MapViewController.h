@@ -1,7 +1,7 @@
 /*
      File: MapViewController.h
  Abstract: Controls the MKMapView and leverages the WeatherServer class to display each weather location.
-  Version: 1.0
+  Version: 1.1
  
  Disclaimer: IMPORTANT:  This Apple software is supplied to you by Apple
  Inc. ("Apple") in consideration of your agreement to the following
